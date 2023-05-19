@@ -15,3 +15,6 @@ To test the app:
 *if you are getting CORS errors you might need to change the origin URL in "/api/index.js" under corsOptions
 
 **if you can't use port 8800 for some reason, when changing it make sure to also change "axios.defaults.baseURL" in /client/src/context/authContext.jsx" to the correct port number or the api routing won't work
+
+
+Or watch the demo here: https://www.loom.com/share/fdd63323c0984f71852862faeb423bdc
